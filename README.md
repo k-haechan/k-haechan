@@ -182,5 +182,35 @@ Terraform/GHA로 IaC·CI/CD 자동화.
 </div>
 
 ---
-<!-- TODO(task-5): Experience & Certifications -->
+<h2 align="center">🎓 Experience & Certifications</h2>
+
+### 🏫 Education
+
+**국민대학교** &nbsp; *정보보안암호수학과* &nbsp; `2018.03 – 2024.02`
+
+- C/C++ 기반 암호 모듈 최적화, PKI 인증·서명 로직 구현
+- Python 기반 통계 분석·전처리·시각화
+
+### 💼 Programs
+
+**프로그래머스 데브코스** &nbsp; *클라우드 기반 백엔드 엔지니어링* &nbsp; `2024.11 – 2025.04`
+
+- Spring Framework·MySQL 기반 백엔드 개발
+- Terraform AWS 인프라 코드 관리(IaC)
+- GitHub CI/CD 파이프라인·RESTful API 협업
+
+**삼성 청년 SW AI 아카데미 (SSAFY)** &nbsp; *SW 역량 강화* &nbsp; `2026.01 – 2026.03`
+
+- Java·Python 알고리즘·자료구조 집중 학습
+- CS 핵심 개념 체계화, 팀 프로젝트 협업·백엔드 개발
+
+### 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/정보처리기사-0078D4?style=for-the-badge&logoColor=white" alt="정보처리기사"/>
+  <img src="https://img.shields.io/badge/SQLD-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQLD"/>
+  <img src="https://img.shields.io/badge/빅데이터분석기사-4479A1?style=for-the-badge&logoColor=white" alt="빅데이터 분석기사"/>
+</p>
+
+---
 <!-- TODO(task-6): Contact -->
