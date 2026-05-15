@@ -31,7 +31,7 @@
 <tr>
 <td colspan="2">
 
-### 🌟 SSAFY-STUDY Platform
+### 🚀 SSAFY-STUDY Platform
 **AI 비동기 학습 플랫폼 — 20명+ 운영 중 · 진행형**
 [ [Repo](https://github.com/k-haechan/study_backend) · [Live Demo](https://www.ssafy-study.site/) ]
 
@@ -69,7 +69,7 @@ Spring Security + JWT 회원·인증 도메인 설계,
 쿼리 최적화로 핵심 API 응답 **2배 이상** 개선.
 
 **Stack:** `Spring Boot` `JWT` `MySQL` `AWS`
-**📅** 2025.03 – 04
+📅 2025.03 – 04
 
 </td>
 <td width="50%" valign="top">
@@ -86,7 +86,7 @@ Terraform/GHA로 IaC·CI/CD 자동화.
 **AWS Java SDK 버그 발견·재현·제보**.
 
 **Stack:** `Spring Boot` `Terraform` `AWS`
-**📅** 2025.07 – 08
+📅 2025.07 – 08
 
 </td>
 </tr>
