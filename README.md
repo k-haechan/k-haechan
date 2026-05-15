@@ -153,6 +153,34 @@ Terraform/GHA로 IaC·CI/CD 자동화.
 </table>
 
 ---
-<!-- TODO(task-4): Activity -->
+<h2 align="center">📊 Activity</h2>
+
+<div align="center">
+
+<a href="https://github.com/k-haechan">
+  <img src="https://github-readme-stats.vercel.app/api?username=k-haechan&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+</a>
+<a href="https://github.com/k-haechan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-haechan&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</a>
+
+<br/>
+
+<a href="https://github.com/k-haechan">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-haechan&theme=radical" alt="GitHub Streak" height="180" />
+</a>
+<a href="https://solved.ac/gocks0203">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gocks0203" alt="Solved.ac" height="180" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/k-haechan">
+  <img src="https://raw.githubusercontent.com/k-haechan/k-haechan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</a>
+
+</div>
+
+---
 <!-- TODO(task-5): Experience & Certifications -->
 <!-- TODO(task-6): Contact -->
