@@ -16,8 +16,8 @@
 
 <p>
   <a href="https://cheer-for-your-life.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
-  <a href="mailto:gibbm1127@naver.com"><img src="https://img.shields.io/badge/Email-007396?style=for-the-badge&logo=naver&logoColor=white" alt="Email"></a>
-  <a href="https://solved.ac/gocks0203" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gocks0203" alt="Solved.ac"></a>
+  <a href="mailto:gibbm1127@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"></a>
+  <a href="https://solved.ac/gocks0203" target="_blank"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gocks0203" alt="Solved.ac"></a>
   <img src="https://komarev.com/ghpvc/?username=k-haechan&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
