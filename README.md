@@ -93,7 +93,66 @@ Terraform/GHA로 IaC·CI/CD 자동화.
 </table>
 
 ---
-<!-- TODO(task-3): Skills & Learning -->
+<h2 align="center">🚀 Skills & Learning</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="160"><b>Languages</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" alt="C/C++"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" alt="Spring Boot"/>
+      &nbsp;Spring Security · JPA
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML"/>
+      &nbsp;Thymeleaf
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" alt="Redis"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra & DevOps</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" alt="AWS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" alt="Terraform"/>
+      &nbsp;<sub>EC2 · S3 · RDS · CloudFront</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Test & CI/CD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" alt="GitHub Actions"/>
+      &nbsp;Mockito · Jacoco
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌱 Currently<br>Exploring</b></td>
+    <td>
+      <code>Claude Code</code> · <code>superpowers</code> · <code>gstack</code> · <code>bmad</code><br>
+      <sub>AI Agent Skill 프레임워크 · Spec-Driven Development</sub>
+    </td>
+  </tr>
+</table>
+
+---
 <!-- TODO(task-4): Activity -->
 <!-- TODO(task-5): Experience & Certifications -->
 <!-- TODO(task-6): Contact -->
