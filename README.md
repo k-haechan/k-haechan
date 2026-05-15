@@ -213,4 +213,17 @@ Terraform/GHA로 IaC·CI/CD 자동화.
 </p>
 
 ---
-<!-- TODO(task-6): Contact -->
+<h2 align="center">📬 Contact</h2>
+
+<div align="center">
+
+> "문제·아이디어·협업 — 무엇이든 환영합니다."
+
+<p>
+  <a href="mailto:gibbm1127@naver.com"><img src="https://img.shields.io/badge/Email-gibbm1127@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/k-haechan"><img src="https://img.shields.io/badge/GitHub-@k--haechan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://cheer-for-your-life.tistory.com/"><img src="https://img.shields.io/badge/Blog-cheer--for--your--life-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
+  <a href="https://portfolio.haechan.site/"><img src="https://img.shields.io/badge/Portfolio-haechan.site-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
+
+</div>
