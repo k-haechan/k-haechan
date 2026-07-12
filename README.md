@@ -247,7 +247,7 @@ AI 퍼스널컬러 진단으로 꾸미기 아이템을 추천하는 커머스·�
   <a href="mailto:gibbm1127@naver.com"><img src="https://img.shields.io/badge/Email-gibbm1127@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"></a>
   <a href="https://github.com/k-haechan"><img src="https://img.shields.io/badge/GitHub-@k--haechan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://cheer-for-your-life.tistory.com/"><img src="https://img.shields.io/badge/Blog-cheer--for--your--life-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
-  <a href="https://portfolio.haechan.site/"><img src="https://img.shields.io/badge/Portfolio-haechan.site-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://k-haechan.github.io/"><img src="https://img.shields.io/badge/Portfolio-k--haechan.github.io-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 </div>
